@@ -5,7 +5,7 @@ Zero-dependency string distance metrics for Python: Levenshtein, Damerau-Levensh
 ## Install
 
 ```bash
-pip install levendist
+python -m pip install -e .
 ```
 
 Requires Python 3.10+. No runtime dependencies.
